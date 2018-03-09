@@ -1,3 +1,10 @@
 <resources>
+    <string name="titulo">Saiba a melhor opção para o abastecimento de seu veículo</string>
     <string name="app_name">Álcool ou Gasolina?</string>
+    <string name="resultadoAlcool">Utilize Álcool</string>
+    <string name="resultadoGasolina">Utilize Gasolina</string>
+    <string name="resultadoInvalido">Campos preenchidos incorretamente!</string>
+    <string name="precoAlcoolHint">Preço do litro do álcool</string>
+    <string name="precoGasolinaHint">Preço do litro da gasolina</string>
+    <string name="buttonCalcular">Calcular</string>
 </resources>
